@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack & AI Developer</h3>
 
 - 🔭 I’m currently working on **AI agents, full-stack apps, and developer tooling**
-- 🧠 Exploring advanced topics in **machine learning, NLP, and distributed systems**
+- 🧠 Exploring advanced topics in **machine learning, generative ai**
 - 💬 Ask me about **Django · React · Node.js · AI/ML**
 - 📫 Reach me at **zaterahmed62@gmail.com**
 - ⚡ Fun fact: *I debug with instinct and deploy with confidence.*
